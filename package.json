@@ -1,0 +1,14 @@
+{
+  "name": "fastspring-nodejs",
+  "version": "1.0.0",
+  "description": "fastsring api wrapper for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip Heinser",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.51.0"
+  }
+}
